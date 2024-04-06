@@ -1,0 +1,105 @@
+/* only for reseting the css */
+.body{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+/* these are the utility classes */
+.h-primary {
+  font-size: 3.8rem;
+  padding: 12px;
+  text-align: center;
+  font-family: "Madimi One", sans-serif;
+
+}
+
+.h-secondary {
+  font-size: 1.7rem;
+  padding: 12px;
+  text-align: center;
+  font-family: "Baloo Bhaijaan 2", sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.btn {
+ 
+  
+}
+
+.utility-img {
+
+  height: 207px;
+  width: 207px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+/* --------------------------------------------------------------- */
+.container{
+  /* border: 2px solid red; */
+  width: 400px;
+  margin: 164px auto;
+  height: 438px;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 3px 4px 58px 2px rgba(255, 246, 246, 0.727);
+}
+
+.container img{
+  width: 99px;
+  height:69px ;
+  margin-left: 149px;
+  margin-top: -10px;
+}
+
+.login-head{
+  /* border: 2px solid red; */
+ width: 270px;
+  margin: 0px auto;
+}
+
+.word1{
+
+  font-size: 70px;
+}
+.word2{
+  width: 150px;
+  margin: auto;
+  font-size: 25px;
+  
+}
+
+.inputs{
+  margin: 30px 100px;
+  width: 239px;
+  
+}
+.inputs input{
+  height: 40px;
+  width: 200px;
+  margin-top:5px ;
+  border-radius: 8px;
+}
+
+.btn {
+  width: 50px;
+  margin-top:0px;
+  height:50px ;
+  /* background-color: rgb(94, 92, 198); */
+  color: white;
+  font-size: 20px;
+  
+}
+
+.reg{
+  margin: auto;
+  width: 251px;
+  margin-top: 23px;
+}
+
+
